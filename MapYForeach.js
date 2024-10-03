@@ -99,4 +99,4 @@ const ForeachYMap = () => {
     console.log(dobleNuemros);
 }
 
-return ForeachYMap()
+ForeachYMap();
